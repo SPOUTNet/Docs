@@ -379,3 +379,5 @@ epub_exclude_files = ['search.html']
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'aspnet': ('https://aspnetmvc.readthedocs.org/en/latest', None)}
 
+intersphinx_cache_limit = 0
+

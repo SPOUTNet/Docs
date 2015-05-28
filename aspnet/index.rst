@@ -11,7 +11,7 @@ ASP.NET 5 Documentation
 Frameworks
 ----------
 
-* :doc:`MVC <mvc:index>`
+* :ref:`MVC <mvc:index>`
 
 Topics
 ------
